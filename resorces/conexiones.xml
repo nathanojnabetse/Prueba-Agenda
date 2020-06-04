@@ -1,0 +1,18 @@
+<conexiones>
+    <conexion>
+        <activa>true</activa>
+        <usuario>root</usuario>
+        <clave>root</clave>
+        <url>jdbc:mysql://localhost:3306/db_agenda</url>
+        <driver>com.mysql.cj.jdbc.Driver</driver>
+        <esquema>db_agenda</esquema>
+    </conexion>
+    <conexion>
+        <activa>false</activa>
+        <usuario>root</usuario>
+        <clave>root</clave>
+        <url>jdbc:mysql://localhost:3306/db_agenda</url>
+        <driver>com.mysql.cj.jdbc.Driver</driver>
+        <esquema>db_agenda</esquema>
+    </conexion>
+</conexiones>
